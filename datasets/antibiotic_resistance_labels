@@ -1,393 +1,393 @@
-resistance phenotype
-susceptible
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-susceptible
-susceptible
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-resistant
-susceptible
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-resistant
-susceptible
-resistant
-resistant
-susceptible
-resistant
-resistant
-resistant
-resistant
-susceptible
-susceptible
-resistant
+,resistance class
+Bacteria 0,susceptible
+Bacteria 1,resistant
+Bacteria 2,resistant
+Bacteria 3,resistant
+Bacteria 4,susceptible
+Bacteria 5,resistant
+Bacteria 6,resistant
+Bacteria 7,resistant
+Bacteria 8,susceptible
+Bacteria 9,susceptible
+Bacteria 10,susceptible
+Bacteria 11,resistant
+Bacteria 12,susceptible
+Bacteria 13,resistant
+Bacteria 14,resistant
+Bacteria 15,resistant
+Bacteria 16,resistant
+Bacteria 17,resistant
+Bacteria 18,resistant
+Bacteria 19,resistant
+Bacteria 20,susceptible
+Bacteria 21,susceptible
+Bacteria 22,susceptible
+Bacteria 23,resistant
+Bacteria 24,susceptible
+Bacteria 25,susceptible
+Bacteria 26,susceptible
+Bacteria 27,resistant
+Bacteria 28,resistant
+Bacteria 29,resistant
+Bacteria 30,susceptible
+Bacteria 31,resistant
+Bacteria 32,resistant
+Bacteria 33,susceptible
+Bacteria 34,resistant
+Bacteria 35,resistant
+Bacteria 36,resistant
+Bacteria 37,resistant
+Bacteria 38,resistant
+Bacteria 39,resistant
+Bacteria 40,susceptible
+Bacteria 41,resistant
+Bacteria 42,susceptible
+Bacteria 43,susceptible
+Bacteria 44,resistant
+Bacteria 45,resistant
+Bacteria 46,resistant
+Bacteria 47,resistant
+Bacteria 48,resistant
+Bacteria 49,susceptible
+Bacteria 50,susceptible
+Bacteria 51,susceptible
+Bacteria 52,susceptible
+Bacteria 53,resistant
+Bacteria 54,susceptible
+Bacteria 55,susceptible
+Bacteria 56,susceptible
+Bacteria 57,susceptible
+Bacteria 58,susceptible
+Bacteria 59,susceptible
+Bacteria 60,resistant
+Bacteria 61,susceptible
+Bacteria 62,susceptible
+Bacteria 63,resistant
+Bacteria 64,susceptible
+Bacteria 65,susceptible
+Bacteria 66,resistant
+Bacteria 67,susceptible
+Bacteria 68,resistant
+Bacteria 69,resistant
+Bacteria 70,resistant
+Bacteria 71,resistant
+Bacteria 72,resistant
+Bacteria 73,resistant
+Bacteria 74,susceptible
+Bacteria 75,susceptible
+Bacteria 76,susceptible
+Bacteria 77,resistant
+Bacteria 78,susceptible
+Bacteria 79,resistant
+Bacteria 80,resistant
+Bacteria 81,resistant
+Bacteria 82,resistant
+Bacteria 83,resistant
+Bacteria 84,resistant
+Bacteria 85,resistant
+Bacteria 86,resistant
+Bacteria 87,resistant
+Bacteria 88,resistant
+Bacteria 89,susceptible
+Bacteria 90,susceptible
+Bacteria 91,susceptible
+Bacteria 92,resistant
+Bacteria 93,susceptible
+Bacteria 94,susceptible
+Bacteria 95,susceptible
+Bacteria 96,resistant
+Bacteria 97,resistant
+Bacteria 98,resistant
+Bacteria 99,susceptible
+Bacteria 100,susceptible
+Bacteria 101,resistant
+Bacteria 102,resistant
+Bacteria 103,resistant
+Bacteria 104,resistant
+Bacteria 105,susceptible
+Bacteria 106,resistant
+Bacteria 107,resistant
+Bacteria 108,susceptible
+Bacteria 109,susceptible
+Bacteria 110,resistant
+Bacteria 111,susceptible
+Bacteria 112,susceptible
+Bacteria 113,susceptible
+Bacteria 114,susceptible
+Bacteria 115,susceptible
+Bacteria 116,resistant
+Bacteria 117,susceptible
+Bacteria 118,resistant
+Bacteria 119,resistant
+Bacteria 120,resistant
+Bacteria 121,resistant
+Bacteria 122,susceptible
+Bacteria 123,resistant
+Bacteria 124,resistant
+Bacteria 125,resistant
+Bacteria 126,susceptible
+Bacteria 127,susceptible
+Bacteria 128,susceptible
+Bacteria 129,resistant
+Bacteria 130,susceptible
+Bacteria 131,resistant
+Bacteria 132,resistant
+Bacteria 133,resistant
+Bacteria 134,susceptible
+Bacteria 135,susceptible
+Bacteria 136,susceptible
+Bacteria 137,susceptible
+Bacteria 138,susceptible
+Bacteria 139,susceptible
+Bacteria 140,resistant
+Bacteria 141,resistant
+Bacteria 142,susceptible
+Bacteria 143,resistant
+Bacteria 144,resistant
+Bacteria 145,resistant
+Bacteria 146,susceptible
+Bacteria 147,susceptible
+Bacteria 148,resistant
+Bacteria 149,resistant
+Bacteria 150,susceptible
+Bacteria 151,resistant
+Bacteria 152,susceptible
+Bacteria 153,susceptible
+Bacteria 154,susceptible
+Bacteria 155,susceptible
+Bacteria 156,resistant
+Bacteria 157,resistant
+Bacteria 158,resistant
+Bacteria 159,susceptible
+Bacteria 160,susceptible
+Bacteria 161,resistant
+Bacteria 162,susceptible
+Bacteria 163,susceptible
+Bacteria 164,susceptible
+Bacteria 165,resistant
+Bacteria 166,resistant
+Bacteria 167,resistant
+Bacteria 168,resistant
+Bacteria 169,susceptible
+Bacteria 170,resistant
+Bacteria 171,susceptible
+Bacteria 172,susceptible
+Bacteria 173,resistant
+Bacteria 174,susceptible
+Bacteria 175,susceptible
+Bacteria 176,resistant
+Bacteria 177,resistant
+Bacteria 178,susceptible
+Bacteria 179,susceptible
+Bacteria 180,resistant
+Bacteria 181,susceptible
+Bacteria 182,resistant
+Bacteria 183,susceptible
+Bacteria 184,susceptible
+Bacteria 185,resistant
+Bacteria 186,resistant
+Bacteria 187,susceptible
+Bacteria 188,susceptible
+Bacteria 189,susceptible
+Bacteria 190,susceptible
+Bacteria 191,susceptible
+Bacteria 192,resistant
+Bacteria 193,resistant
+Bacteria 194,resistant
+Bacteria 195,susceptible
+Bacteria 196,resistant
+Bacteria 197,susceptible
+Bacteria 198,resistant
+Bacteria 199,resistant
+Bacteria 200,resistant
+Bacteria 201,susceptible
+Bacteria 202,resistant
+Bacteria 203,resistant
+Bacteria 204,resistant
+Bacteria 205,resistant
+Bacteria 206,susceptible
+Bacteria 207,susceptible
+Bacteria 208,susceptible
+Bacteria 209,resistant
+Bacteria 210,resistant
+Bacteria 211,susceptible
+Bacteria 212,susceptible
+Bacteria 213,susceptible
+Bacteria 214,resistant
+Bacteria 215,susceptible
+Bacteria 216,resistant
+Bacteria 217,resistant
+Bacteria 218,resistant
+Bacteria 219,resistant
+Bacteria 220,susceptible
+Bacteria 221,resistant
+Bacteria 222,resistant
+Bacteria 223,resistant
+Bacteria 224,resistant
+Bacteria 225,susceptible
+Bacteria 226,resistant
+Bacteria 227,resistant
+Bacteria 228,susceptible
+Bacteria 229,susceptible
+Bacteria 230,resistant
+Bacteria 231,susceptible
+Bacteria 232,resistant
+Bacteria 233,resistant
+Bacteria 234,resistant
+Bacteria 235,susceptible
+Bacteria 236,susceptible
+Bacteria 237,resistant
+Bacteria 238,resistant
+Bacteria 239,susceptible
+Bacteria 240,resistant
+Bacteria 241,susceptible
+Bacteria 242,resistant
+Bacteria 243,resistant
+Bacteria 244,resistant
+Bacteria 245,resistant
+Bacteria 246,resistant
+Bacteria 247,susceptible
+Bacteria 248,resistant
+Bacteria 249,resistant
+Bacteria 250,resistant
+Bacteria 251,susceptible
+Bacteria 252,resistant
+Bacteria 253,resistant
+Bacteria 254,susceptible
+Bacteria 255,susceptible
+Bacteria 256,resistant
+Bacteria 257,resistant
+Bacteria 258,susceptible
+Bacteria 259,resistant
+Bacteria 260,resistant
+Bacteria 261,susceptible
+Bacteria 262,susceptible
+Bacteria 263,susceptible
+Bacteria 264,susceptible
+Bacteria 265,susceptible
+Bacteria 266,resistant
+Bacteria 267,resistant
+Bacteria 268,susceptible
+Bacteria 269,susceptible
+Bacteria 270,resistant
+Bacteria 271,susceptible
+Bacteria 272,resistant
+Bacteria 273,resistant
+Bacteria 274,resistant
+Bacteria 275,susceptible
+Bacteria 276,susceptible
+Bacteria 277,susceptible
+Bacteria 278,susceptible
+Bacteria 279,resistant
+Bacteria 280,resistant
+Bacteria 281,resistant
+Bacteria 282,susceptible
+Bacteria 283,susceptible
+Bacteria 284,susceptible
+Bacteria 285,susceptible
+Bacteria 286,susceptible
+Bacteria 287,resistant
+Bacteria 288,resistant
+Bacteria 289,resistant
+Bacteria 290,susceptible
+Bacteria 291,resistant
+Bacteria 292,susceptible
+Bacteria 293,susceptible
+Bacteria 294,resistant
+Bacteria 295,susceptible
+Bacteria 296,susceptible
+Bacteria 297,resistant
+Bacteria 298,resistant
+Bacteria 299,resistant
+Bacteria 300,susceptible
+Bacteria 301,susceptible
+Bacteria 302,resistant
+Bacteria 303,susceptible
+Bacteria 304,susceptible
+Bacteria 305,resistant
+Bacteria 306,resistant
+Bacteria 307,resistant
+Bacteria 308,susceptible
+Bacteria 309,susceptible
+Bacteria 310,resistant
+Bacteria 311,susceptible
+Bacteria 312,susceptible
+Bacteria 313,resistant
+Bacteria 314,susceptible
+Bacteria 315,susceptible
+Bacteria 316,susceptible
+Bacteria 317,resistant
+Bacteria 318,susceptible
+Bacteria 319,resistant
+Bacteria 320,susceptible
+Bacteria 321,susceptible
+Bacteria 322,resistant
+Bacteria 323,susceptible
+Bacteria 324,resistant
+Bacteria 325,resistant
+Bacteria 326,resistant
+Bacteria 327,resistant
+Bacteria 328,susceptible
+Bacteria 329,susceptible
+Bacteria 330,resistant
+Bacteria 331,susceptible
+Bacteria 332,susceptible
+Bacteria 333,resistant
+Bacteria 334,resistant
+Bacteria 335,resistant
+Bacteria 336,susceptible
+Bacteria 337,susceptible
+Bacteria 338,resistant
+Bacteria 339,susceptible
+Bacteria 340,susceptible
+Bacteria 341,susceptible
+Bacteria 342,resistant
+Bacteria 343,resistant
+Bacteria 344,susceptible
+Bacteria 345,susceptible
+Bacteria 346,susceptible
+Bacteria 347,susceptible
+Bacteria 348,resistant
+Bacteria 349,resistant
+Bacteria 350,resistant
+Bacteria 351,susceptible
+Bacteria 352,susceptible
+Bacteria 353,susceptible
+Bacteria 354,resistant
+Bacteria 355,resistant
+Bacteria 356,resistant
+Bacteria 357,resistant
+Bacteria 358,resistant
+Bacteria 359,resistant
+Bacteria 360,resistant
+Bacteria 361,resistant
+Bacteria 362,susceptible
+Bacteria 363,resistant
+Bacteria 364,resistant
+Bacteria 365,susceptible
+Bacteria 366,resistant
+Bacteria 367,resistant
+Bacteria 368,susceptible
+Bacteria 369,resistant
+Bacteria 370,susceptible
+Bacteria 371,resistant
+Bacteria 372,susceptible
+Bacteria 373,resistant
+Bacteria 374,resistant
+Bacteria 375,resistant
+Bacteria 376,resistant
+Bacteria 377,resistant
+Bacteria 378,resistant
+Bacteria 379,resistant
+Bacteria 380,resistant
+Bacteria 381,susceptible
+Bacteria 382,resistant
+Bacteria 383,resistant
+Bacteria 384,susceptible
+Bacteria 385,resistant
+Bacteria 386,resistant
+Bacteria 387,resistant
+Bacteria 388,resistant
+Bacteria 389,susceptible
+Bacteria 390,susceptible
+Bacteria 391,resistant
