@@ -91,7 +91,7 @@ which is part of [Towards Data Science Articles](http://towardsdatascience.com)
 
 - [Really nice overview of formulas for evaluation metrics](https://spark.apache.org/docs/2.3.0/mllib-evaluation-metrics.html)
 
-- [ROC Curves] (https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152)
+- [ROC Curves](https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152)
 
 
 
