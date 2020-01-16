@@ -37,13 +37,26 @@ To know how to use the main algorithms needed for predictive modeling with pytho
 
 ### Schedule
 
-To achieve the objectives and get the above outcomes we divided the material into 5 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
+To achieve the objectives and get the above outcomes we divided the material into 10 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
 
-* [Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction_ScikitLearn_with_Naive_Bayes_Classifier.ipynb)
-* [Data Preprocessing](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/01_Preprocessing_ScikitLearn_with_Naive_Bayes_Classifier.ipynb)
-* [Model Training](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/02_Model_Training_ScikitLearn_with_Naive_Bayes_Classifier.ipynb)
-* [Model Evaluation](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/03_Model_Evaluation_ScikitLearn_with_Naive_Bayes_Classifier.ipynb)
-* [Model Improvement](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/04_Model_Improvement_ScikitLearn_with_Naive_Bayes_Classifier.ipynb)
+First day the following notebooks are used:
+
+
+* [Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
+* [Data Preprocessing](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
+* [Model Training with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/02_Model_Training_Naive_Bayes_Classifier.ipynb)
+* [Model Evaluation with Naive Bayes](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/03_Model_Evaluation_Naive_Bayes_Classifier.ipynb)
+* [Model Selection with Naive Bayes](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/04_Model_Improvement_Naive_Bayes_Classifier.ipynb)
+
+Second day the following notebooks are used:
+
+
+* [Review](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/05_Preprocessing_Review_PCA.ipynb)
+* [Data Preprocessing for Unsupervised Learning](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
+* [Unsupervised Learning: PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/07_Unsupervised_Learning_PCA.ipynb)
+* [Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/08_Unsupervised_Learning_Clustering.ipynb)
+* [Model Training with Linear Regression](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/04_Model_Improvement_Naive_Bayes_Classifier.ipynb)
+* [Model Selection with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/10_Model_Selection_with_Linear_Regression.ipynb)
 
 
 ## Resources
