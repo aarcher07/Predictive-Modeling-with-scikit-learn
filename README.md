@@ -31,13 +31,18 @@ To know how to use the main algorithms needed for predictive modeling with pytho
 ### Learning outcomes
 
 * How do I use ScikitLearn to do classification? 
-* How do I ensure that I'm building a model that will generalize to unseen data? 
+* How do I use ScikitLearn to do dimensionality reduction and clustering? 
+* How do I use ScikitLearn to do regression? 
+
 * How could ScikitLearn help me compare classifiers? 
+* How could ScikitLearn help me compare linear models? 
+
+* How do I ensure that I'm building a model that will generalize to unseen data? 
 * Can I estimate how well my model is likely to perform on unseen data?
 
 ### Schedule
 
-To achieve the objectives and get the above outcomes we divided the material into 10 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
+To achieve the objectives and get the above outcomes we divided the material into 11 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
 
 First day the following notebooks are used:
 
