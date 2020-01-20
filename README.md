@@ -51,7 +51,7 @@ First day the following notebooks are used:
 * [Data Preprocessing](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
 * [Model Training with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/02_Model_Training_Naive_Bayes_Classifier.ipynb)
 * [Model Evaluation with Naive Bayes](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/03_Model_Evaluation_Naive_Bayes_Classifier.ipynb)
-* [Model Selection with Naive Bayes](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/04_Model_Improvement_Naive_Bayes_Classifier.ipynb)
+* [Model Selection with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/04_Model_Selection_Naive_Bayes_Classifier.ipynb)
 
 Second day the following notebooks are used:
 
@@ -60,7 +60,7 @@ Second day the following notebooks are used:
 * [Data Preprocessing for Unsupervised Learning](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
 * [Unsupervised Learning: PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/07_Unsupervised_Learning_PCA.ipynb)
 * [Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/08_Unsupervised_Learning_Clustering.ipynb)
-* [Model Training with Linear Regression](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/04_Model_Improvement_Naive_Bayes_Classifier.ipynb)
+* [Model Training with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/09_Model_Training_with_Linear_Regression.ipynb)
 * [Model Selection with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/10_Model_Selection_with_Linear_Regression.ipynb)
 
 
