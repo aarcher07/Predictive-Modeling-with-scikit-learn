@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5728b546-d968-400c-b2e9-7b731e6a0bb1" name="Default Changelist" comment="edits to PCA section -- used standardized data.">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dataset_manipulation.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dataset_manipulation_avocado.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/kmerlist.pkl" afterDir="false" />
@@ -10,50 +9,8 @@
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/label_train.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/test.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/train.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/transformed_2d_df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/transformed_3d_df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/07_PCA_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/07_PCA_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/07_PCA_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/07_PCA_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/07_PCA_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10_alpha_model_error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10_cross_validation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10_folds.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/06_Preprocessing_PCA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/06_Preprocessing_PCA-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/07_Unsupervised_Learning_PCA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/07_Unsupervised_Learning_PCA-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/08_Unsupervised_Learning_Clustering-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/08_Unsupervised_Learning_Clustering-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/09_Model_Training_with_Linear_Regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/09_Model_Training_with_Linear_Regression-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/10_Model_Selection_with_Linear_Regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/10_Model_Selection_with_Linear_Regression-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Preprocessing_Naive_Bayes_Classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Preprocessing_Naive_Bayes_Classifier.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Preprocessing_Review_PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05_Preprocessing_Review_PCA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Preprocessing_PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06_Preprocessing_PCA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Unsupervised_Learning_PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_Unsupervised_Learning_PCA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Unsupervised_Learning_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/08_Unsupervised_Learning_Clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Model_Training_with_Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09_Model_Training_with_Linear_Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Model_Selection_with_Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_Model_Selection_with_Linear_Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/antibiotic_resistance_encoded_labels" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/antibiotic_resistance_encoded_labels" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/avocado_prices_test_set" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/avocado_prices_test_set" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/avocado_prices_training_set" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/avocado_prices_training_set" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/avocado_test_set" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/avocado_test_set" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/avocado_training_set" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/avocado_training_set" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/transformed_DNA_2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/transformed_DNA_3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_2d_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_PCA_3d_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/08_KMeans_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/08_KMeans_05.png" afterDir="false" />
     </list>
     <list id="485cce21-782b-40c3-91d5-7661f5bef4e6" name="check point push" comment="" />
     <list id="3d35fdb6-d818-4e86-a639-a8ee4e2251f4" name="check point push #2" comment="" />
@@ -115,9 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="220" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-41" />
+    <option name="y" value="47" />
     <option name="width" value="1280" />
     <option name="height" value="706" />
   </component>
@@ -267,7 +224,7 @@
       <workItem from="1578981108435" duration="719000" />
       <workItem from="1579017862167" duration="12698000" />
       <workItem from="1579479560839" duration="81000" />
-      <workItem from="1579479650171" duration="698000" />
+      <workItem from="1579479650171" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="split files">
       <created>1572122264791</created>
@@ -437,11 +394,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579387623011</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Many edits.&#10;&#10;edits to PCA section -- used standardized data.&#10;added figures to notebook 10.&#10;resaved 3d and 2d reduced data from PCA.&#10;TODO: figure out what does PCA whitening do.&#10;added back grouped data to the avocado dataset.&#10;redid figures for PCA.">
+      <created>1579480384291</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1579480384291</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39049000" />
+    <option name="totallyTimeSpent" value="39281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,7 +417,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="706" extended-state="6" />
+    <frame x="-41" y="47" width="1280" height="706" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27221325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
