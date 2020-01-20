@@ -48,9 +48,9 @@ First day the following notebooks are used:
 
 
 * [Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
-* [Data Preprocessing](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
+* [Data Preprocessing](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
 * [Model Training with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/02_Model_Training_Naive_Bayes_Classifier.ipynb)
-* [Model Evaluation with Naive Bayes](https://raw.githubusercontent.com/aarcher07/predictive_modeling_with_scikit_learn/master/03_Model_Evaluation_Naive_Bayes_Classifier.ipynb)
+* [Model Evaluation with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/03_Model_Evaluation_Naive_Bayes_Classifier.ipynb)
 * [Model Selection with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/04_Model_Selection_Naive_Bayes_Classifier.ipynb)
 
 Second day the following notebooks are used:
