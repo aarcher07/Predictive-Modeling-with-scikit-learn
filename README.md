@@ -55,13 +55,13 @@ First day the following notebooks are used:
 
 Second day the following notebooks are used:
 
-
-* [Review](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/05_Preprocessing_Review_PCA.ipynb)
-* [Data Preprocessing for Unsupervised Learning](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/01_Preprocessing_Naive_Bayes_Classifier.ipynb)
+* [Review of Day 1 Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
+* [Review of Day 1 Preprocessing](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/05_Preprocessing_Review_PCA.ipynb)
+* [Data Preprocessing for Unsupervised Learning, PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/06_Preprocessing_PCA.ipynb)
 * [Unsupervised Learning: PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/07_Unsupervised_Learning_PCA.ipynb)
-* [Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/08_Unsupervised_Learning_Clustering.ipynb)
-* [Model Training with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/09_Model_Training_with_Linear_Regression.ipynb)
-* [Model Selection with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/10_Model_Selection_with_Linear_Regression.ipynb)
+* [Model Training with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/08_Model_Training_with_Linear_Regression.ipynb)
+* [Model Selection with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/09_Model_Selection_with_Linear_Regression.ipynb)
+* [Bonus: Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/Bonus_Unsupervised_Learning_Clustering.ipynb)
 
 
 ## Resources
