@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5728b546-d968-400c-b2e9-7b731e6a0bb1" name="Default Changelist" comment="edits to PCA section -- used standardized data.">
+    <list default="true" id="5728b546-d968-400c-b2e9-7b731e6a0bb1" name="Default Changelist" comment="renamed improvement to selection">
+      <change afterPath="$PROJECT_DIR$/05_Preprocessing_Review_PCA_Solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Preprocessing_PCA_Solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Unsupervised_Learning_PCA_Solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Model_Training_with_Linear_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Model_Training_with_Linear_Regression_Solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Model_Selection_with_Linear_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Model_Selection_with_Linear_Regression_Solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bonus_Unsupervised_Learning_Clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bonus_Unsupervised_Learning_Clustering_Solution.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dataset_manipulation.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dataset_manipulation_avocado.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/kmerlist.pkl" afterDir="false" />
@@ -10,10 +19,18 @@
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/test.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datasets/kmer_data/train.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/08_KMeans_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/08_KMeans_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/06_Preprocessing_PCA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/06_Preprocessing_PCA-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/07_Unsupervised_Learning_PCA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/07_Unsupervised_Learning_PCA-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/08_Unsupervised_Learning_Clustering-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/09_Model_Training_with_Linear_Regression-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/10_Model_Selection_with_Linear_Regression-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Preprocessing_Review_PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05_Preprocessing_Review_PCA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Preprocessing_PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06_Preprocessing_PCA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Unsupervised_Learning_PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_Unsupervised_Learning_PCA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Unsupervised_Learning_Clustering.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Model_Training_with_Linear_Regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Model_Selection_with_Linear_Regression.ipynb" beforeDir="false" />
     </list>
-    <list id="485cce21-782b-40c3-91d5-7661f5bef4e6" name="check point push" comment="" />
-    <list id="3d35fdb6-d818-4e86-a639-a8ee4e2251f4" name="check point push #2" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +52,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_Model_Selection_with_Linear_Regression.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_Model_Evaluation_Naive_Bayes_Classifier_Solution.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
@@ -73,8 +85,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-41" />
-    <option name="y" value="47" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="706" />
   </component>
@@ -90,11 +101,6 @@
             <path>
               <item name="Predictive Modeling with Scikit learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Predictive Modeling with Scikit learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Predictive Modeling with Scikit learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Predictive Modeling with Scikit learn" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Predictive Modeling with Scikit learn" type="b2602c69:ProjectViewProjectNode" />
@@ -199,8 +205,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5728b546-d968-400c-b2e9-7b731e6a0bb1" name="Default Changelist" comment="" />
-      <changelist id="3d35fdb6-d818-4e86-a639-a8ee4e2251f4" name="check point push #2" comment="" />
-      <changelist id="485cce21-782b-40c3-91d5-7661f5bef4e6" name="check point push" comment="" />
       <created>1571596599081</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -224,7 +228,8 @@
       <workItem from="1578981108435" duration="719000" />
       <workItem from="1579017862167" duration="12698000" />
       <workItem from="1579479560839" duration="81000" />
-      <workItem from="1579479650171" duration="930000" />
+      <workItem from="1579479650171" duration="2139000" />
+      <workItem from="1579640473699" duration="962000" />
     </task>
     <task id="LOCAL-00001" summary="split files">
       <created>1572122264791</created>
@@ -401,11 +406,32 @@
       <option name="project" value="LOCAL" />
       <updated>1579480384291</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="updated cluster images">
+      <created>1579480655025</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1579480655025</updated>
+    </task>
+    <task id="LOCAL-00027" summary="edits to PCA section -- used standardized data.">
+      <created>1579480769485</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1579480769485</updated>
+    </task>
+    <task id="LOCAL-00028" summary="renamed improvement to selection">
+      <created>1579480851982</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1579480851982</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39281000" />
+    <option name="totallyTimeSpent" value="41452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,9 +443,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-41" y="47" width="1280" height="706" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="706" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27221325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27059773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,7 +459,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7407108" weight="0.58372456" />
       <window_info anchor="bottom" id="Jupyter" order="10" sideWeight="0.49192247" visible="true" weight="0.25077882" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48546043" weight="0.32394367" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48546043" weight="0.3224299" />
       <window_info anchor="bottom" id="GitLabIntegration" order="12" weight="0.32934132" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5016155" side_tool="true" weight="0.3286385" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.4983845" weight="0.3286385" />
@@ -513,8 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="split files" />
-    <MESSAGE value="rename files" />
     <MESSAGE value="beta version complete" />
     <MESSAGE value="edited confusion matrix with terms" />
     <MESSAGE value="many edits" />
@@ -537,7 +561,10 @@
     <MESSAGE value="data files for part 2" />
     <MESSAGE value="Completed notebook 10.&#10;&#10;Go through to do list to clean up notebooks of part 2" />
     <MESSAGE value="Many edits.&#10;&#10;edits to PCA section -- used standardized data.&#10;added figures to notebook 10.&#10;resaved 3d and 2d reduced data from PCA.&#10;TODO: figure out what does PCA whitening do.&#10;added back grouped data to the avocado dataset.&#10;redid figures for PCA." />
-    <option name="LAST_COMMIT_MESSAGE" value="Many edits.&#10;&#10;edits to PCA section -- used standardized data.&#10;added figures to notebook 10.&#10;resaved 3d and 2d reduced data from PCA.&#10;TODO: figure out what does PCA whitening do.&#10;added back grouped data to the avocado dataset.&#10;redid figures for PCA." />
+    <MESSAGE value="updated cluster images" />
+    <MESSAGE value="edits to PCA section -- used standardized data." />
+    <MESSAGE value="renamed improvement to selection" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed improvement to selection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Predictive_Modeling_with_Scikit_learn$dataset_manipulation.coverage" NAME="dataset_manipulation Coverage Results" MODIFIED="1579414271740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
