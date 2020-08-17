@@ -44,7 +44,7 @@ To know how to use the main algorithms needed for predictive modeling with pytho
 
 To achieve the objectives and get the above outcomes we divided the material into 11 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
 
-First day the following notebooks are used:
+On first day, the following notebooks will be used:
 
 
 * [Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
@@ -53,15 +53,19 @@ First day the following notebooks are used:
 * [Model Evaluation with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/03_Model_Evaluation_Naive_Bayes_Classifier.ipynb)
 * [Model Selection with Naive Bayes](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/04_Model_Selection_Naive_Bayes_Classifier.ipynb)
 
-Second day the following notebooks are used:
+On the second day, the following notebooks will be used:
 
 * [Review of Day 1 Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
 * [Review of Day 1 Preprocessing](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/05_Preprocessing_Review_PCA.ipynb)
 * [Data Preprocessing for Unsupervised Learning, PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/06_Preprocessing_PCA.ipynb)
 * [Unsupervised Learning: PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/07_Unsupervised_Learning_PCA.ipynb)
+* [Bonus: Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/Bonus_Unsupervised_Learning_Clustering.ipynb)
+
+On the third day, the following notebooks will be used:
+
+* [Review of Day 1 Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
 * [Model Training with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/08_Model_Training_with_Linear_Regression.ipynb)
 * [Model Selection with Linear Regression](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/09_Model_Selection_with_Linear_Regression.ipynb)
-* [Bonus: Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/Bonus_Unsupervised_Learning_Clustering.ipynb)
 
 
 ## Resources
