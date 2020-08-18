@@ -56,7 +56,6 @@ On first day, the following notebooks will be used:
 On the second day, the following notebooks will be used:
 
 * [Review of Day 1 Introduction](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/00_Introduction.ipynb)
-* [Review of Day 1 Preprocessing](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/05_Preprocessing_Review_PCA.ipynb)
 * [Data Preprocessing for Unsupervised Learning, PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/06_Preprocessing_PCA.ipynb)
 * [Unsupervised Learning: PCA](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/07_Unsupervised_Learning_PCA.ipynb)
 * [Bonus: Unsupervised Learning: Clustering](https://github.com/aarcher07/predictive_modeling_with_scikit_learn/blob/master/Bonus_Unsupervised_Learning_Clustering.ipynb)
